@@ -7,7 +7,7 @@ excerpt: 'This study addresses the validation challenges of Immersed Boundary Me
 date: 2024-04-26
 venue: 'Computers & Fluids'
 slidesurl: 'http://lianxiali.github.io/files/slides3.pdf'
-paperurl: 'http://lianxiali.github.io/files/paper3.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0045793024001130'
 citation: 'L. Li, M. Stoellinger, and M. Mousaviraad, &quot Rigorous benchmarking of an iterative IBM solver by comparison to body-fitted mesh results. &quot <i> Computers & Fluids </i>, vol. 277, p. 106 281, 2024. '
 ---
 
