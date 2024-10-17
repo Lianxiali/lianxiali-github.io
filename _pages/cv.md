@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV (pdf)](/tree/master/files/CV_Lianxia_LI(2024).pdf)
+[CV (pdf)](http://lianxiali.github.io/files/CV_Lianxia_LI(2024).pdf)
 
 {% include base_path %}
 
@@ -21,7 +21,7 @@ EDUCATION
 WORK EXPERIENCE
 ======
 
-__  Postdoctoral Research Associate,  UNC-Chapel Hill, Chapel Hill, NC, (2023.9 - present) __
+__Postdoctoral Research Associate,  UNC-Chapel Hill, Chapel Hill, NC, (2023.9 - present)__
 
 * Developed computational fluid dynamics models of blood flow in experimental image-based models of arteriovenous
 fistulas using C++ and MPI under the open-source C++ library of OpenFOAM.
@@ -33,7 +33,7 @@ under the open-source C++ framework of IBAMR.
 
 * The University of Wyoming August 2018 – August 2023
 
-__ Research Assistant, University of Wyoming, Laramie, WY, (2018.8 - 2023.8) __
+__Research Assistant, University of Wyoming, Laramie, WY, (2018.8 - 2023.8)__
 
 - Developed a novel hybrid FSI (fluid-structure interaction) solver coupling the Arbitrary Lagrangian-Eulerian (ALE) and
 the immersed boundary method (IBM) under the open-source C++ library of OpenFOAM.
@@ -45,7 +45,7 @@ cruising speeds using OpenFOAM.
 
 
 
-__ Principal Investigator, Sichuan University, Chengdu, China, (2007.7 - 2018.5) __
+__Principal Investigator, Sichuan University, Chengdu, China, (2007.7 - 2018.5)__
 
 - Led groundbreaking research in turbulence, energy dissipation, and groundwater, combining experimental and numerical
 methodologies.
