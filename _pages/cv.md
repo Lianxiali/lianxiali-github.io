@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV (pdf)](/tree/master/files/CV_Lianxia(2024).pdf)
+[CV (pdf)](/tree/master/files/CV_Lianxia_LI(2024).pdf)
 
 {% include base_path %}
 
@@ -21,41 +21,55 @@ Education
 Work experience
 ======
 * The University of North Carolina at Chapel Hill Sept. 2023 – present
+
 Postdoctoral Research Associate Chapel Hill, NC
-• Developed computational fluid dynamics models of blood flow in experimental image-based models of arteriovenous
+
+* Developed computational fluid dynamics models of blood flow in experimental image-based models of arteriovenous
 fistulas using C++ and MPI under the open-source C++ library of OpenFOAM.
-• Developed and applied numerical methods in fluid-structure interaction, focusing on biomedical applications in the heart
+
+* Developed and applied numerical methods in fluid-structure interaction, focusing on biomedical applications in the heart
 under the open-source C++ framework of IBAMR.
-• Created efficient ways to analyze and visualize results using Python, Paraview, and Bash scripts
+
+* Created efficient ways to analyze and visualize results using Python, Paraview, and Bash scripts
 
 * The University of Wyoming August 2018 – August 2023
+
 Research Assistant Laramie, WY
-• Developed a novel hybrid FSI (fluid-structure interaction) solver coupling the Arbitrary Lagrangian-Eulerian (ALE) and
+
+* Developed a novel hybrid FSI (fluid-structure interaction) solver coupling the Arbitrary Lagrangian-Eulerian (ALE) and
 the immersed boundary method (IBM) under the open-source C++ library of OpenFOAM.
-• Developed an image-based CFD model for heart flow simulation using OpenFOAM and Ansys Fluent.
-• Conducted a comprehensive numerical study on hydrodynamic characteristics of semi-planing ship hulls at various
+
+* Developed an image-based CFD model for heart flow simulation using OpenFOAM and Ansys Fluent.
+
+* Conducted a comprehensive numerical study on hydrodynamic characteristics of semi-planing ship hulls at various
 cruising speeds using OpenFOAM.
 
-*Sichuan University July 2007 – May 2018
+Sichuan University July 2007 – May 2018
+
 Principal Investigator Chengdu, China
-• Led groundbreaking research in turbulence, energy dissipation, and groundwater, combining experimental and numerical
+
+* Led groundbreaking research in turbulence, energy dissipation, and groundwater, combining experimental and numerical
 methodologies.
-• Developed innovative software and tools for educational and industrial applications, attracting significant industry
+
+* Developed innovative software and tools for educational and industrial applications, attracting significant industry
 funding.
-• Secured ¥3,353,300 in competitive grant funding from NSF China and industry partners
-• Invented and patented four novel technologies, demonstrating strong innovation capabilities.
-• Managed multidisciplinary research teams and mentored graduate students, fostering a collaborative research
+
+* Secured ¥3,353,300 in competitive grant funding from NSF China and industry partners
+
+* Invented and patented four novel technologies, demonstrating strong innovation capabilities.
+
+* Managed multidisciplinary research teams and mentored graduate students, fostering a collaborative research
 environment
 
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -63,11 +77,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -75,6 +89,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
