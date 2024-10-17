@@ -11,14 +11,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * Ph.D in Mechanical Engineering, The University of Wyoming, 2023
 * M.S. in Mechanical Engineering, The University of Wyoming, 2021
 * Ph.D in Civil Engineering, Sichuan University, 2007
 * B.S. in Civil Engineering, Zhengzhou University, 2002
 
-Work experience
+WORK EXPERIENCE
 ======
 
 __ (2023.9 - present) Postdoctoral Research Associate,  UNC-Chapel Hill, Chapel Hill, NC __
@@ -70,7 +70,7 @@ environment
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+PUBLICATIONS
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -82,7 +82,7 @@ Publications
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Teaching
+TEACHING
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
