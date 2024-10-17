@@ -11,26 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, The University of Wyoming, 2023
+* M.S. in Mechanical Engineering, The University of Wyoming, 2021
+* Ph.D in Civil Engineering, Sichuan University, 2007
+* B.S. in Civil Engineering, Zhengzhou University, 2002
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* The University of North Carolina at Chapel Hill Sept. 2023 – present
+Postdoctoral Research Associate Chapel Hill, NC
+• Developed computational fluid dynamics models of blood flow in experimental image-based models of arteriovenous
+fistulas using C++ and MPI under the open-source C++ library of OpenFOAM.
+• Developed and applied numerical methods in fluid-structure interaction, focusing on biomedical applications in the heart
+under the open-source C++ framework of IBAMR.
+• Created efficient ways to analyze and visualize results using Python, Paraview, and Bash scripts
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* The University of Wyoming August 2018 – August 2023
+Research Assistant Laramie, WY
+• Developed a novel hybrid FSI (fluid-structure interaction) solver coupling the Arbitrary Lagrangian-Eulerian (ALE) and
+the immersed boundary method (IBM) under the open-source C++ library of OpenFOAM.
+• Developed an image-based CFD model for heart flow simulation using OpenFOAM and Ansys Fluent.
+• Conducted a comprehensive numerical study on hydrodynamic characteristics of semi-planing ship hulls at various
+cruising speeds using OpenFOAM.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Sichuan University July 2007 – May 2018
+Principal Investigator Chengdu, China
+• Led groundbreaking research in turbulence, energy dissipation, and groundwater, combining experimental and numerical
+methodologies.
+• Developed innovative software and tools for educational and industrial applications, attracting significant industry
+funding.
+• Secured ¥3,353,300 in competitive grant funding from NSF China and industry partners
+• Invented and patented four novel technologies, demonstrating strong innovation capabilities.
+• Managed multidisciplinary research teams and mentored graduate students, fostering a collaborative research
+environment
+
   
 Skills
 ======
