@@ -22,7 +22,7 @@ Work experience
 ======
 * The University of North Carolina at Chapel Hill Sept. 2023 – present
 
-Postdoctoral Research Associate Chapel Hill, NC
+## (2023.9 - present) Postdoctoral Research Associate,  UNC-Chapel Hill, Chapel Hill, NC
 
 * Developed computational fluid dynamics models of blood flow in experimental image-based models of arteriovenous
 fistulas using C++ and MPI under the open-source C++ library of OpenFOAM.
@@ -34,31 +34,31 @@ under the open-source C++ framework of IBAMR.
 
 * The University of Wyoming August 2018 – August 2023
 
-Research Assistant Laramie, WY
+## (2018.8 - 2023.8) Research Assistant, University of Wyoming, Laramie, WY
 
-* Developed a novel hybrid FSI (fluid-structure interaction) solver coupling the Arbitrary Lagrangian-Eulerian (ALE) and
+- Developed a novel hybrid FSI (fluid-structure interaction) solver coupling the Arbitrary Lagrangian-Eulerian (ALE) and
 the immersed boundary method (IBM) under the open-source C++ library of OpenFOAM.
 
-* Developed an image-based CFD model for heart flow simulation using OpenFOAM and Ansys Fluent.
+- Developed an image-based CFD model for heart flow simulation using OpenFOAM and Ansys Fluent.
 
-* Conducted a comprehensive numerical study on hydrodynamic characteristics of semi-planing ship hulls at various
+- Conducted a comprehensive numerical study on hydrodynamic characteristics of semi-planing ship hulls at various
 cruising speeds using OpenFOAM.
 
-Sichuan University July 2007 – May 2018
 
-Principal Investigator Chengdu, China
 
-* Led groundbreaking research in turbulence, energy dissipation, and groundwater, combining experimental and numerical
+## (2007.7 - 2018.5) Principal Investigator, Sichuan University, Chengdu, China
+
+- Led groundbreaking research in turbulence, energy dissipation, and groundwater, combining experimental and numerical
 methodologies.
 
-* Developed innovative software and tools for educational and industrial applications, attracting significant industry
+- Developed innovative software and tools for educational and industrial applications, attracting significant industry
 funding.
 
-* Secured ¥3,353,300 in competitive grant funding from NSF China and industry partners
+- Secured ¥3,353,300 in competitive grant funding from NSF China and industry partners
 
-* Invented and patented four novel technologies, demonstrating strong innovation capabilities.
+- Invented and patented four novel technologies, demonstrating strong innovation capabilities.
 
-* Managed multidisciplinary research teams and mentored graduate students, fostering a collaborative research
+- Managed multidisciplinary research teams and mentored graduate students, fostering a collaborative research
 environment
 
   
