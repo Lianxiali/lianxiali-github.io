@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Sichuan University, College of Water Resource & Hydropower"
-date: 2007-2017
+date: 2007-07-01
 location: "Chengdu, China"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Wyoming, Department of Mechanical Engineering"
-date: 2019-2023
+date: 2019-02-10
 location: "Laramie, WY, USA"
 ---
 
