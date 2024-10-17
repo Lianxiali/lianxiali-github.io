@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV (pdf)](/tree/master/files/CV_Lianxia(2024).pdf
+[CV (pdf)](/tree/master/files/CV_Lianxia(2024).pdf)
 
 {% include base_path %}
 
