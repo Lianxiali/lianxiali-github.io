@@ -3,12 +3,18 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Sichuan University, College of Water Resource & Hydropower"
+date: 2007-2017
+location: "Chengdu, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+• Fluid Mechanics: Designed and delivered lectures for graduate students (Fall 2007, 2008, 2009,
+2016)
+• Computational Fluid Dynamics: Developed and taught graduate-level courses (Spring 2007, 2008,
+2009, 2011, 2012, 2017)
+• Hydraulics: Instructed 60 undergraduate students (Fall 2014, 2016, 2017)
+• Groundwater: Designed and introduced a new course for 40 undergraduate students (Fall 2010,
+2011)
 
 Heading 1
 ======
