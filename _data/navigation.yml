@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -17,11 +17,11 @@ main:
   - title: "Projects"
     url: /portfolio/
         
-  - title: "Blogs"
-    url: /year-archive/
+  # - title: "Blogs"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Gallery"
-    url: /markdown/
+  # - title: "Gallery"
+  #   url: /markdown/
