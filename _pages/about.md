@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is an academic personal website."
+title: "Lianxia (Michael) Li's academic website."
 author_profile: true
 redirect_from: 
   - /about/
