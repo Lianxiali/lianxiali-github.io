@@ -21,7 +21,7 @@ EDUCATION
 WORK EXPERIENCE
 ======
 
-__ (2023.9 - present) Postdoctoral Research Associate,  UNC-Chapel Hill, Chapel Hill, NC __
+__  Postdoctoral Research Associate,  UNC-Chapel Hill, Chapel Hill, NC, (2023.9 - present) __
 
 * Developed computational fluid dynamics models of blood flow in experimental image-based models of arteriovenous
 fistulas using C++ and MPI under the open-source C++ library of OpenFOAM.
@@ -33,7 +33,7 @@ under the open-source C++ framework of IBAMR.
 
 * The University of Wyoming August 2018 – August 2023
 
-__ (2018.8 - 2023.8) Research Assistant, University of Wyoming, Laramie, WY __
+__ Research Assistant, University of Wyoming, Laramie, WY, (2018.8 - 2023.8) __
 
 - Developed a novel hybrid FSI (fluid-structure interaction) solver coupling the Arbitrary Lagrangian-Eulerian (ALE) and
 the immersed boundary method (IBM) under the open-source C++ library of OpenFOAM.
@@ -45,7 +45,7 @@ cruising speeds using OpenFOAM.
 
 
 
-__ (2007.7 - 2018.5) Principal Investigator, Sichuan University, Chengdu, China __
+__ Principal Investigator, Sichuan University, Chengdu, China, (2007.7 - 2018.5) __
 
 - Led groundbreaking research in turbulence, energy dissipation, and groundwater, combining experimental and numerical
 methodologies.
