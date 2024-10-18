@@ -1,6 +1,6 @@
 ---
 title: "Wedge Drop"
-excerpt: "Using ALE and Overset to simulate a wedge dropping into water <br/><img src='/images/500x300.png'>"
+excerpt: "Using ALE and Overset to simulate a wedge dropping into water <br/><img src='/images/wedgedrop.png'>"
 collection: projects
 ---
 
