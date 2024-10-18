@@ -1,7 +1,7 @@
 ---
 title: "Study on hydrodynamic characteristics during semi-planing ship hull maneuvering"
 excerpt: "Short description of Projects item number 1<br/><img src='/images/500x300.png'>"
-collection: Projects
+collection: projects
 ---
 ![image](https://github.com/user-attachments/assets/d3cc452c-4e68-4257-88bd-dfd4ef12bd9b)
 280 M grids
