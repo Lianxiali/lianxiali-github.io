@@ -6,7 +6,7 @@ collection: projects
 
 
 
-# Hydrodynamics of a ship hull
+
 
 <table>
  <tr align="center">
