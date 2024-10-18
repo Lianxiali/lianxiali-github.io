@@ -1,6 +1,6 @@
 ---
-title: "Study on hydrodynamic characteristics during semi-planing ship hull maneuvering"
-excerpt: "Athena ship hull simulation<br/><img src='/images/athena.png'>"
+title: "Left Ventricle Flow with Moving Boundaries"
+excerpt: "Hybrid FSI solver couping IBM and ALE<br/><img src='/images/heart.png'>"
 collection: projects
 ---
 
