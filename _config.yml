@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Academic Page"
+title                    : "HOME"
 title_separator          : "-"
 name                     : &name "Lianxia Li"
 description              : &description ""
