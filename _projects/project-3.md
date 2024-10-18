@@ -12,7 +12,7 @@ collection: projects
  <tr align="center">
   
     <td width="50%"><img src='/images/Picture3.gif' width="100%"></td>
-    <td width="50%"><img src=/images/Picture4.gif width="100%"></td>
+    <td width="50%"><img src='/images/Picture4.gif' width="100%"></td>
  </tr>
  <tr align="center">
    <td width="50%">static leaflets</td>
