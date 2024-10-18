@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "<a href='http://lianxiali.github.io/files/CV_Lianxia_LI(2024).pdf'>CV (pdf)</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-[CV (pdf)](http://lianxiali.github.io/files/CV_Lianxia_LI(2024).pdf)
+<p></p>
+
+<p></p>
 
 {% include base_path %}
 
