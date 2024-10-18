@@ -14,11 +14,4 @@ location: "Laramie, WY, USA"
 - Engineering Experimentation: Assisted 22 undergraduate students in laboratory work (Fall 2022)
 - Thermal Fluids Laboratory: Supported 20 undergraduate students in lab sessions (Spring 2023)
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======

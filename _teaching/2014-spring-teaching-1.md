@@ -15,11 +15,3 @@ location: "Chengdu, China"
 - Groundwater: Designed and introduced a new course for 40 undergraduate students (Fall 2010,
 2011)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
