@@ -9,8 +9,8 @@ collection: projects
 
 <table>
  <tr align="center">
-    <td width="50%"><img src="https://github.com/user-attachments/assets/ffa6a8c2-8333-4f96-81b7-6e4427bfe9dc" width="100%"></td>
-    <td width="50%"><img src="https://github.com/user-attachments/assets/eb6829c8-659e-4a7b-9ec9-6d25ef3610e6" width="100%"></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/ffa6a8c2-8333-4f96-81b7-6e4427bfe9dc" width="60%"></td>
+    <td width="50%"><img src="https://github.com/user-attachments/assets/eb6829c8-659e-4a7b-9ec9-6d25ef3610e6" width="60%"></td>
  </tr>
  <tr align="center">
    <td width="50%">static leaflets</td>
