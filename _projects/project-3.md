@@ -1,6 +1,6 @@
 ---
 title: "Left Ventricle Flow with Moving Boundaries"
-excerpt: "Hybrid FSI solver coupling IBM and ALE<br/><img src='/images/heart.png'  width="50%">"
+excerpt: "Hybrid FSI solver coupling IBM and ALE<br/><img src='/images/heart.png' width="50%">"
 collection: projects
 ---
 
