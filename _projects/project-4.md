@@ -1,6 +1,6 @@
 ---
 title: "Hemodynamics of Murine Arteriovenous Fistula (AVF)"
-excerpt: "Streamline<br/><img src='/images/AVF.png' width='50%'>"
+excerpt: "Streamline<br/><a href='_projects/project-1.md'><img src='/images/AVF.png' width='50%'></a>"
 collection: projects
 ---
 
