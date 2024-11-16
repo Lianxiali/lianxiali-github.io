@@ -1,6 +1,6 @@
 ---
 title: "Study on hydrodynamic characteristics during semi-planing ship hull maneuvering"
-excerpt: "Athena ship hull simulation<br/><a href='project-1.md'><img src='/images/athena.png' width='50%'></a>"
+excerpt: "Athena ship hull simulation<br/><a href='project-1'><img src='/images/athena.png' width='50%'></a>"
 collection: projects
 ---
 
